@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="227" viewBox="0 0 1000 227" role="img" aria-label="Tools: design and simulation - Altium Designer, KiCad, EAGLE, Fusion 360, LTspice, ngspice, MATLAB; silicon and code - STM32, MSP430, ARM Cortex-M, FPGA, Jetson Orin, C, C++, Python, Rust, Verilog, VHDL; bench - SCPI / VISA, Oscilloscope, Spectrum Analyzer, LabVIEW, Arch / Ubuntu">
+  <style>
+    .c { font: 500 13.5px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .l { font: 700 11px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; letter-spacing: 1.6px; }
+  </style>
+  <circle cx="8" cy="12" r="2.5" fill="#0969da"/>
+  <text class="l" x="18" y="16" fill="#0969da">DESIGN AND SIMULATION</text>
+  <rect x="4.0" y="33" width="123.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="65.5" y="53" fill="#1f2328" text-anchor="middle">Altium Designer</text>
+  <rect x="135.0" y="33" width="63.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="166.5" y="53" fill="#1f2328" text-anchor="middle">KiCad</text>
+  <rect x="206.0" y="33" width="67.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="239.5" y="53" fill="#1f2328" text-anchor="middle">EAGLE</text>
+  <rect x="281.0" y="33" width="92.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="327.0" y="53" fill="#1f2328" text-anchor="middle">Fusion 360</text>
+  <rect x="381.0" y="33" width="70.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="416.0" y="53" fill="#1f2328" text-anchor="middle">LTspice</text>
+  <rect x="459.0" y="33" width="74.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="496.0" y="53" fill="#1f2328" text-anchor="middle">ngspice</text>
+  <rect x="541.0" y="33" width="78.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="580.0" y="53" fill="#1f2328" text-anchor="middle">MATLAB</text>
+  <circle cx="8" cy="91" r="2.5" fill="#0969da"/>
+  <text class="l" x="18" y="95" fill="#0969da">SILICON AND CODE</text>
+  <rect x="4.0" y="112" width="69.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="38.5" y="132" fill="#1f2328" text-anchor="middle">STM32</text>
+  <rect x="81.0" y="112" width="77.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="119.5" y="132" fill="#1f2328" text-anchor="middle">MSP430</text>
+  <rect x="166.0" y="112" width="116.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="224.0" y="132" fill="#1f2328" text-anchor="middle">ARM Cortex-M</text>
+  <rect x="290.0" y="112" width="62.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="321.0" y="132" fill="#1f2328" text-anchor="middle">FPGA</text>
+  <rect x="360.0" y="112" width="95.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="407.5" y="132" fill="#1f2328" text-anchor="middle">Jetson Orin</text>
+  <rect x="463.0" y="112" width="38.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="482.0" y="132" fill="#1f2328" text-anchor="middle">C</text>
+  <rect x="509.0" y="112" width="56.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="537.0" y="132" fill="#1f2328" text-anchor="middle">C++</text>
+  <rect x="573.0" y="112" width="70.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="608.0" y="132" fill="#1f2328" text-anchor="middle">Python</text>
+  <rect x="651.0" y="112" width="56.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="679.0" y="132" fill="#1f2328" text-anchor="middle">Rust</text>
+  <rect x="715.0" y="112" width="70.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="750.0" y="132" fill="#1f2328" text-anchor="middle">Verilog</text>
+  <rect x="793.0" y="112" width="63.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="824.5" y="132" fill="#1f2328" text-anchor="middle">VHDL</text>
+  <circle cx="8" cy="170" r="2.5" fill="#0969da"/>
+  <text class="l" x="18" y="174" fill="#0969da">BENCH</text>
+  <rect x="4.0" y="191" width="95.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="51.5" y="211" fill="#1f2328" text-anchor="middle">SCPI / VISA</text>
+  <rect x="107.0" y="191" width="102.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="158.0" y="211" fill="#1f2328" text-anchor="middle">Oscilloscope</text>
+  <rect x="217.0" y="191" width="138.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="286.0" y="211" fill="#1f2328" text-anchor="middle">Spectrum Analyzer</text>
+  <rect x="363.0" y="191" width="81.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="403.5" y="211" fill="#1f2328" text-anchor="middle">LabVIEW</text>
+  <rect x="452.0" y="191" width="112.0" height="30" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="c" x="508.0" y="211" fill="#1f2328" text-anchor="middle">Arch / Ubuntu</text>
+</svg>
